@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **patilabhay484@gmail.com | 8668596922**
 
-- 📄 Know about my experiences [file:///C:/Users/WIN10/AppData/Local/Microsoft/Windows/INetCache/IE/OOC401G3/AbhayPatil[1].pdf](file:///C:/Users/WIN10/AppData/Local/Microsoft/Windows/INetCache/IE/OOC401G3/AbhayPatil[1].pdf)
+- 📄 Know about my experiences
+-https://drive.google.com/file/d/1gPHh-cGg0VP0-JhgkTAyOOTg-bJ4EQK-/view?usp=drivesdk 
 
 - ⚡ Fun fact **“I can write 100 lines of code before my morning coffee ☕”**
 
