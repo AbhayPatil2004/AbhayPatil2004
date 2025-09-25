@@ -24,7 +24,7 @@
 <a href="https://www.geeksforgeeks.org/user/patilabtwta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/patilabtwta/?_gl=1*1sq196s*_up*mq..*_gs*mq..&gclid=cj0kcqjwqv2_bhc0arisafb5ac8ymh7-pojg-jigbanjlhggevd7z559rmvesyn-lwpszjsjil5xjosaamdnealw_wcb" height="30" width="40" /></a>
 
 
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/abhay_patil_04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/abhay_patil_04" height="30" width="40" /></a>
+
 
 </p>
 
