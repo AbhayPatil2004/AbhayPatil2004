@@ -2,6 +2,8 @@
 <h3 align="center">Third-year Computer Science student, passionate about software development, seeking an internship to apply programming, problem-solving, and full-stack development skills in real-world projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaypatil2004&label=Profile%20views&color=0e75b6&style=flat" alt="abhaypatil2004" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=abhaypatil2004" alt="abhaypatil2004" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaypatil2004" alt="abhaypatil2004" /></a> </p>
 
