@@ -194,7 +194,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhaypatil2004&show_icons=true&locale=en" alt="abhaypatil2004" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaypatil2004&" alt="abhaypatil2004" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaypatil2004&" alt="abhaypatil2004" /></p> -->
 
 <!-- <a href="https://github.com/AbhayPatil2004">
   <img width="49%" height="180px"
@@ -206,15 +206,38 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayPatil2004&layout=compact&theme=tokyonight" />
 </a> -->
 
-<hr/>
 
-<p align="center">
+
+<!-- <p align="center">
   <a href="https://www.leetcode.com/patilabhay2004" target="_blank">
     <img src="https://leetcard.jacoblin.cool/patilabhay2004?theme=dark" alt="LeetCode Stats" />
   </a>
-</p>
+</p> -->
+
+
+
+
+
+<table align="center">
+  <tr>
+    <!-- LeetCode Stats Card -->
+    <td align="center">
+      <a href="https://www.leetcode.com/patilabhay2004" target="_blank">
+        <img src="https://leetcard.jacoblin.cool/patilabhay2004?theme=dark" alt="LeetCode Stats" width="400"/>
+      </a>
+    </td>
+
+   <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaypatil2004&theme=dark&border_radius=10" alt="LeetCode Streak" width="400"/>
+     <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaypatil2004&show_icons=true&locale=en&layout=compact" alt="abhaypatil2004" /></p> -->
+    </td>
+    
+  </tr>
+</table>
 
 <hr/>
+
+
 
 <!-- <p align="center">
   ![LeetCode Total Solved](https://img.shields.io/badge/LeetCode-Total%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
