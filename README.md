@@ -41,14 +41,14 @@
 
 <hr/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/AbhayPatil2004">
   <img width="49%" height="180px"
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  src="https://github-readme-stats.vercel.app/api?username=AbhayPatil2004&show_icons=true&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/AbhayPatil2004">
   <img width="49%" height="180px"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayPatil2004&layout=compact&theme=tokyonight" />
 </a>
 
 <hr/>
