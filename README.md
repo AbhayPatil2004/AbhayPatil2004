@@ -37,3 +37,24 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhaypatil2004&show_icons=true&locale=en" alt="abhaypatil2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaypatil2004&" alt="abhaypatil2004" /></p>
+
+
+<hr/>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img width="49%" height="180px"
+  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img width="49%" height="180px"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</a>
+
+<hr/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake.svg" width="70%">
+
+</div>
