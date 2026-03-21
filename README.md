@@ -22,7 +22,9 @@
 <!-- <h1 align="center">Hi 👋, I'm Abhay Ramkrushna Patil</h1>
 <h3 align="center">💻 Computer Science Student | Aspiring Full-Stack Software Engineer</h3> -->
 
-<h1 align="center">👋 Hey there! I'm Abhay Ramkrushna Patil</h1>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="35">, I'm Abhay Ramkrushna Patil
+</h1>
 <h3 align="center">💻 Computer Science Student | Full-Stack Developer | Problem Solver | Continuous Learner</h3>
 
 <p align="center">
