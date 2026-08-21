@@ -55,7 +55,7 @@
 
 
 ### 📄 Resume
-- Check out my professional experiences and projects:[Resume Link](https://abhaypatil2004.github.io/resume/Abhay_Patil_Resume.pdf)
+- Check out my professional experiences and projects:[Resume Link](https://abhaypatil2004.github.io/resume/AbhayPatilResume.pdf)
 
 
 
@@ -80,7 +80,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 
-a href="https://www.naukri.com/code360/profile/82e8a2c8-4927-4afc-8931-bd0a3956afb7" target="_blank">
+<a href="https://www.naukri.com/code360/profile/82e8a2c8-4927-4afc-8931-bd0a3956afb7" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/coding-ninjas.svg" height="30" width="40" />
 </a>
 
