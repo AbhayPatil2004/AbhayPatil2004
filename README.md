@@ -34,7 +34,7 @@
 
 
 ### 🔭 Current Work
-- I’m currently working on **[BazzarGhar](https://github.com/AbhayPatil2004/AuraWear)** – a full-stack project to simplify online shopping and marketplace experience.
+- I’m currently working on **[Placely](https://github.com/AbhayPatil2004/Placely)** – A Placement Preparation Platform.
 
 
 
@@ -47,6 +47,7 @@
 - Data Structures & Algorithms  
 - DevOps & Cloud Computing  
 - Building scalable and optimized systems
+- Data Science and Machine Learning 
 
 ### 📫 Reach Me
 - **Email:** patilabhay484@gmail.com  
@@ -93,6 +94,10 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
 </a>
 
+<a href="https://www.naukri.com/code360/profile/82e8a2c8-4927-4afc-8931-bd0a3956afb7" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/coding-ninjas.svg" height="30" width="40" />
+</a>
+
 </p>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
@@ -109,6 +114,7 @@
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
 ### 🌐 Web Development
@@ -122,7 +128,8 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
 
 
@@ -146,7 +153,7 @@
 <!-- <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/> -->
 <!-- </p> -->
 
-### 📊 Data Science & Analytics
+### 📊 Data Science & Machine Learning
 <p align="center">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -155,6 +162,7 @@
 <!-- <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badge"/> -->
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
 ### 🗃️ Databases & Storage
