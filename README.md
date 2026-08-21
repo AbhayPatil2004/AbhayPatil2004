@@ -55,7 +55,7 @@
 
 
 ### 📄 Resume
-- Check out my professional experiences and projects: [Resume Link](https://drive.google.com/file/d/17uFhKt72EHKPt28zNQf-bIiMGY4QvJgm/view?usp=sharing)
+- Check out my professional experiences and projects:[Resume Link](https://abhaypatil2004.github.io/resume/Abhay_Patil_Resume.pdf)
 
 
 
@@ -80,6 +80,12 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 
+a href="https://www.naukri.com/code360/profile/82e8a2c8-4927-4afc-8931-bd0a3956afb7" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/coding-ninjas.svg" height="30" width="40" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.codechef.com/users/abhay_patil_04" target="_blank">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
 </a>
@@ -94,9 +100,7 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
 </a>
 
-<a href="https://www.naukri.com/code360/profile/82e8a2c8-4927-4afc-8931-bd0a3956afb7" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/coding-ninjas.svg" height="30" width="40" />
-</a>
+
 
 </p>
 
