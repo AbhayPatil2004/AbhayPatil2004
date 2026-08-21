@@ -55,7 +55,7 @@
 
 
 ### 📄 Resume
-- Check out my professional experiences and projects : [Resume Link](https://AbhayPatil2004.github.io/resume/AbhayPatilResume.pdf)
+- Check out my professional experiences and projects : [Resume Link](https://github.com/AbhayPatil2004/resume)
 
 
 
