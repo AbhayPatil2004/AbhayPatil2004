@@ -55,7 +55,7 @@
 
 
 ### 📄 Resume
-- Check out my professional experiences and projects:[Resume Link](https://abhaypatil2004.github.io/resume/AbhayPatilResume.pdf)
+- Check out my professional experiences and projects : [Resume Link](https://AbhayPatil2004.github.io/resume/AbhayPatilResume.pdf)
 
 
 
@@ -73,34 +73,26 @@
 <a href="https://linkedin.com/in/abhay-patil-0857a93a3" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.leetcode.com/patilabhay2004" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.naukri.com/code360/profile/82e8a2c8-4927-4afc-8931-bd0a3956afb7" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/coding-ninjas.svg" height="30" width="40" />
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://www.codechef.com/users/abhay_patil_04" target="_blank">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
 </a>
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.geeksforgeeks.org/user/patilabtwta/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
 </a>
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://dev.to/abhay_codes" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
 </a>
-
-
 
 </p>
 
